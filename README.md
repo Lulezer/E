@@ -18,9 +18,9 @@ Feutures include:
 - Script Integration And Event Handiling
 - Networking
 - AI and Pathfinding
-- 
 - Cross-Platform Support (Future Consideration)
 
 
 
-############M STILL IN DEVELOPMENT NOT EVERYTHHING IS STILL BEING IMPLEMENTED NOT ALL FEUTURES MIGHT BE IMPLEMENTED##############
+########M STILL IN DEVELOPMENT NOT EVERYTHHING IS STILL BEING IMPLEMENTED NOT ALL FEUTURES MIGHT BE IMPLEMENTED#########
+          OTHER FEUTURES MIGHT ALSO BE IMPLEMENTEFD
